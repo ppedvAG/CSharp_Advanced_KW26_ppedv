@@ -5,8 +5,8 @@ Email: KevinW@ppedv.de
 Themen
 
  Di:
-- [ ] C# 7.0 -> C# 9 Sprach Features
-- [ ] C# 10 und Ausblick auf C#11
+- [x] C# 7.0 -> C# 9 Sprach Features
+- [x] C# 10 und Ausblick auf C#11
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 - [ ] Generics
 - [ ] Delegates, Action, Func, Callbacks, Event, EventHandler

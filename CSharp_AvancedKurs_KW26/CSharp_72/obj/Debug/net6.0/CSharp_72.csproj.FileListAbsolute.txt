@@ -1,0 +1,5 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_72\obj\Debug\net6.0\CSharp_72.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_72\obj\Debug\net6.0\CSharp_72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_72\obj\Debug\net6.0\CSharp_72.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_72\obj\Debug\net6.0\CSharp_72.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_72\obj\Debug\net6.0\CSharp_72.csproj.CoreCompileInputs.cache

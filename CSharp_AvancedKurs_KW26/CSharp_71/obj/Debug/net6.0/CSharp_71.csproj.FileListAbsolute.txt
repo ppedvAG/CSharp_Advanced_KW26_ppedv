@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\bin\Debug\net6.0\CSharp_71.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\bin\Debug\net6.0\CSharp_71.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\bin\Debug\net6.0\CSharp_71.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\bin\Debug\net6.0\CSharp_71.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\bin\Debug\net6.0\CSharp_71.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\refint\CSharp_71.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\CSharp_71.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_71\obj\Debug\net6.0\ref\CSharp_71.dll

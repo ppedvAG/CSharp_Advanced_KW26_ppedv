@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\bin\Debug\net6.0\CSharp_70.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\bin\Debug\net6.0\CSharp_70.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\bin\Debug\net6.0\CSharp_70.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\bin\Debug\net6.0\CSharp_70.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\bin\Debug\net6.0\CSharp_70.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\refint\CSharp_70.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\CSharp_70.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\CSharp_70\obj\Debug\net6.0\ref\CSharp_70.dll
