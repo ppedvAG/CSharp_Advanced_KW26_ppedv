@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\bin\Debug\net6.0\EventAndEventHandlerSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\bin\Debug\net6.0\EventAndEventHandlerSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\bin\Debug\net6.0\EventAndEventHandlerSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\bin\Debug\net6.0\EventAndEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\bin\Debug\net6.0\EventAndEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\refint\EventAndEventHandlerSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\EventAndEventHandlerSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\EventAndEventHandlerSample\obj\Debug\net6.0\ref\EventAndEventHandlerSample.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DelegateCallbackWithNet5/1.0.0": {
+        "runtime": {
+          "DelegateCallbackWithNet5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateCallbackWithNet5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

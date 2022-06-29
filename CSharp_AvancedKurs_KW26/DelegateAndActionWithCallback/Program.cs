@@ -12,18 +12,18 @@ app.Button_StarteLottoziehung();
 
 delegate void AktuellGezogeneLottozahlenDelegate(int zahl);
 
-delegate void GesamtERgebnisDerZiehung(GezogeneLottozahlen gezogeneLottozahlen);
+delegate void GesamtERgebnisDerZiehungDelegate(GezogeneLottozahlen gezogeneLottozahlen);
 public class MyApp
 {
     private LottozahlenZiehungComponent lottozahlenZiehungComponent = new LottozahlenZiehungComponent();
 
     private AktuellGezogeneLottozahlenDelegate aktuellGezogeneLottozahlenDelegate;
-    private GesamtERgebnisDerZiehung gesamtERgebnisDerZiehungDelegate;
+    private GesamtERgebnisDerZiehungDelegate gesamtERgebnisDerZiehungDelegate;
 
     public MyApp()
     {
         aktuellGezogeneLottozahlenDelegate = new AktuellGezogeneLottozahlenDelegate(ZeigeAktuelleGezogeneLottozahlAn);
-        gesamtERgebnisDerZiehungDelegate = new GesamtERgebnisDerZiehung(ZeigeAlleLottozahlenAn);
+        gesamtERgebnisDerZiehungDelegate = new GesamtERgebnisDerZiehungDelegate(ZeigeAlleLottozahlenAn);
     }
 
     public void Button_StarteLottoziehung()
@@ -50,7 +50,7 @@ public class MyApp
 
 class LottozahlenZiehungComponent
 {
-    public void ZiehungDerLottozahlen(AktuellGezogeneLottozahlenDelegate anzeigeDerLottozahlen, GesamtERgebnisDerZiehung gesamtERgebnisDerZiehung) //Delegate ist ein Callback und eine Methode gemappt die uns den Zwischenstand 
+    public void ZiehungDerLottozahlen(AktuellGezogeneLottozahlenDelegate anzeigeDerLottozahlen, GesamtERgebnisDerZiehungDelegate gesamtERgebnisDerZiehung) //Delegate ist ein Callback und eine Methode gemappt die uns den Zwischenstand 
     {
         Random rnd = new Random();
         GezogeneLottozahlen gezogeneLottozahlen = new GezogeneLottozahlen();

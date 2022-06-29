@@ -5,19 +5,19 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SprachFeatures_bis CSharp 9.0", "SprachFeatures_bis CSharp 9.0", "{92785961-B3BE-4775-99EC-83888374C2CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_70", "CSharp_70\CSharp_70.csproj", "{D6220BE7-DC6D-4C62-954C-110F342393F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_70", "CSharp_70\CSharp_70.csproj", "{D6220BE7-DC6D-4C62-954C-110F342393F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_71", "CSharp_71\CSharp_71.csproj", "{5DC73932-064E-4B68-A80D-2BCD586FC276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_71", "CSharp_71\CSharp_71.csproj", "{5DC73932-064E-4B68-A80D-2BCD586FC276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_72", "CSharp_72\CSharp_72.csproj", "{C18ABE04-E7C5-4127-BE57-00A750A46C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_72", "CSharp_72\CSharp_72.csproj", "{C18ABE04-E7C5-4127-BE57-00A750A46C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_80", "CSharp_80\CSharp_80.csproj", "{F65F4BB6-1154-4522-B2C9-A9E96434B89F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_80", "CSharp_80\CSharp_80.csproj", "{F65F4BB6-1154-4522-B2C9-A9E96434B89F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_90", "CSharp_90\CSharp_90.csproj", "{5D833184-51C3-42F9-BBB1-F36711B0F7DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_90", "CSharp_90\CSharp_90.csproj", "{5D833184-51C3-42F9-BBB1-F36711B0F7DA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aktuelles Sprach_Feature", "Aktuelles Sprach_Feature", "{0C60991D-BC6E-4E06-9386-0BCD76CA1E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_10", "CSharp_10\CSharp_10.csproj", "{AB2A16FD-5828-48D6-A26F-E5250E12C229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_10", "CSharp_10\CSharp_10.csproj", "{AB2A16FD-5828-48D6-A26F-E5250E12C229}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C880624F-DA9F-4D04-BBCB-CDF8E04BA68F}"
 	ProjectSection(SolutionItems) = preProject
@@ -26,17 +26,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{F2AC75A6-590A-40E7-83BF-89547F50C6FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGenerics", "HelloGenerics\HelloGenerics.csproj", "{2A6CCC8B-F2F4-4ACF-9F43-1F8745AD350F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloGenerics", "HelloGenerics\HelloGenerics.csproj", "{2A6CCC8B-F2F4-4ACF-9F43-1F8745AD350F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionGenerics", "QuestionGenerics\QuestionGenerics.csproj", "{6062F73D-84F8-4271-94FA-2AB76ABDD4DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionGenerics", "QuestionGenerics\QuestionGenerics.csproj", "{6062F73D-84F8-4271-94FA-2AB76ABDD4DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystem", "SolarSystem\SolarSystem.csproj", "{F7665108-831C-4FCF-9483-3EDE1C01477A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolarSystem", "SolarSystem\SolarSystem.csproj", "{F7665108-831C-4FCF-9483-3EDE1C01477A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{801E6B6A-AD6A-4952-9809-A4755F679A2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesActionsAndFuncsSample", "DelegatesActionsAndFuncsSample\DelegatesActionsAndFuncsSample.csproj", "{55E42247-BBB3-4660-84A4-0DA1611F36D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesActionsAndFuncsSample", "DelegatesActionsAndFuncsSample\DelegatesActionsAndFuncsSample.csproj", "{55E42247-BBB3-4660-84A4-0DA1611F36D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateAndActionWithCallback", "DelegateAndActionWithCallback\DelegateAndActionWithCallback.csproj", "{1C7B577A-D6DF-470F-AD68-A2263DAD88B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateAndActionWithCallback", "DelegateAndActionWithCallback\DelegateAndActionWithCallback.csproj", "{1C7B577A-D6DF-470F-AD68-A2263DAD88B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateCallbackWithNet5", "DelegateCallbackWithNet5\DelegateCallbackWithNet5.csproj", "{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormSample", "WinFormSample\WinFormSample.csproj", "{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleWpfApp1", "SampleWpfApp1\SampleWpfApp1.csproj", "{6F23175A-E1DA-4519-BC17-CC90C1174E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAndEventHandlerSample", "EventAndEventHandlerSample\EventAndEventHandlerSample.csproj", "{87C8F5A0-8800-4D07-8A8A-E156A414FF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -88,6 +96,22 @@ Global
 		{1C7B577A-D6DF-470F-AD68-A2263DAD88B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C7B577A-D6DF-470F-AD68-A2263DAD88B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C7B577A-D6DF-470F-AD68-A2263DAD88B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F23175A-E1DA-4519-BC17-CC90C1174E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F23175A-E1DA-4519-BC17-CC90C1174E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F23175A-E1DA-4519-BC17-CC90C1174E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F23175A-E1DA-4519-BC17-CC90C1174E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C8F5A0-8800-4D07-8A8A-E156A414FF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C8F5A0-8800-4D07-8A8A-E156A414FF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C8F5A0-8800-4D07-8A8A-E156A414FF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C8F5A0-8800-4D07-8A8A-E156A414FF54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +128,10 @@ Global
 		{F7665108-831C-4FCF-9483-3EDE1C01477A} = {F2AC75A6-590A-40E7-83BF-89547F50C6FA}
 		{55E42247-BBB3-4660-84A4-0DA1611F36D3} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
 		{1C7B577A-D6DF-470F-AD68-A2263DAD88B2} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
+		{2AAB2A4E-E38E-4903-8EC7-064C2637F7C6} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
+		{719DDD4B-79A9-40C4-B6D0-169CDDDA2D0D} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
+		{6F23175A-E1DA-4519-BC17-CC90C1174E71} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
+		{87C8F5A0-8800-4D07-8A8A-E156A414FF54} = {801E6B6A-AD6A-4952-9809-A4755F679A2F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {829A472E-AF40-4407-826C-3EB66EFAA4CB}

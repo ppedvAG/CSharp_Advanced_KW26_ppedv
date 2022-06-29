@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\bin\Debug\net5.0\DelegateCallbackWithNet5.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\refint\DelegateCallbackWithNet5.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\DelegateCallbackWithNet5.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\DelegateCallbackWithNet5\obj\Debug\net5.0\ref\DelegateCallbackWithNet5.dll
