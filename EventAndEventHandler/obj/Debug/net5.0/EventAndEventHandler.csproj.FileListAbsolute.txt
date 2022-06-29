@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.exe
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.deps.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.runtimeconfig.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\ref\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\bin\Debug\net5.0\EventAndEventHandler.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\ref\EventAndEventHandler.dll
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.pdb
+C:\Aktueller Kurs\CSharpFortgeschritten_2022_KW10_ppedv-\CSharpAdvancedKurs\EventAndEventHandler\obj\Debug\net5.0\EventAndEventHandler.genruntimeconfig.cache
