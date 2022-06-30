@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\bin\Debug\net5.0\003_Thread_Beenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\refint\003_Thread_Beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\003_Thread_Beenden.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\003_Thread_Beenden\obj\Debug\net5.0\ref\003_Thread_Beenden.dll

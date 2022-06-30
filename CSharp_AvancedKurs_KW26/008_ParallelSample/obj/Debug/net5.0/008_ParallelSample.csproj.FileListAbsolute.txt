@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\bin\Debug\net5.0\008_ParallelSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\refint\008_ParallelSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\008_ParallelSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\008_ParallelSample\obj\Debug\net5.0\ref\008_ParallelSample.dll

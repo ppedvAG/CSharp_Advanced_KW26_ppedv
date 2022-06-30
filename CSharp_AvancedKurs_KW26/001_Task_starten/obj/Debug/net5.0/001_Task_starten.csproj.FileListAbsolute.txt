@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\bin\Debug\net5.0\001_Task_starten.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\refint\001_Task_starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\001_Task_starten.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Task_starten\obj\Debug\net5.0\ref\001_Task_starten.dll

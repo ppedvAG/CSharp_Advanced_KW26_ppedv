@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\bin\Debug\net5.0\001_Thread_Starten.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\refint\001_Thread_Starten.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\001_Thread_Starten.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\001_Thread_Starten\obj\Debug\net5.0\ref\001_Thread_Starten.dll

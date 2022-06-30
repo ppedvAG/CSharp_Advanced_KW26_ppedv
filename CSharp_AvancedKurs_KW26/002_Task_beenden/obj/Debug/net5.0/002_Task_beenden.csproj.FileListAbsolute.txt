@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\bin\Debug\net5.0\002_Task_beenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\refint\002_Task_beenden.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\002_Task_beenden.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\002_Task_beenden\obj\Debug\net5.0\ref\002_Task_beenden.dll

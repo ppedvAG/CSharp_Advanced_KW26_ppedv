@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\bin\Debug\net5.0\006_ContinueWith.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\refint\006_ContinueWith.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\006_ContinueWith.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\006_ContinueWith\obj\Debug\net5.0\ref\006_ContinueWith.dll

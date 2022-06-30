@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "004_BeendenEinesThreadMitCancelationTokenSource/1.0.0": {
+        "runtime": {
+          "004_BeendenEinesThreadMitCancelationTokenSource.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "004_BeendenEinesThreadMitCancelationTokenSource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

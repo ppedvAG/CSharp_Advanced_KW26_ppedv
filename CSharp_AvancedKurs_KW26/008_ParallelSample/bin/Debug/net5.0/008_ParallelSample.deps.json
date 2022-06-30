@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "008_ParallelSample/1.0.0": {
+        "runtime": {
+          "008_ParallelSample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008_ParallelSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

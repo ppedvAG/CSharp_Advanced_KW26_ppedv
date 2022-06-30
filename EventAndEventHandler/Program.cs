@@ -6,11 +6,11 @@ namespace EventAndEventHandler
     {
         static void Main(string[] args)
         {
-            //BusinessLogicComponentA businessLogicComponentA = new BusinessLogicComponentA();
-            //businessLogicComponentA.ChengecPercentValue += BusinessLogicComponentA_ChengecPercentValue;
-            //businessLogicComponentA.ResultCompletedDelegate += BusinessLogicComponentA_ResultCompletedDelegate;
+            BusinessLogicComponentA businessLogicComponentA = new BusinessLogicComponentA();
+            businessLogicComponentA.ChengecPercentValue += BusinessLogicComponentA_ChengecPercentValue;
+            businessLogicComponentA.ResultCompletedDelegate += BusinessLogicComponentA_ResultCompletedDelegate;
 
-            //businessLogicComponentA.StartProcess();
+            businessLogicComponentA.StartProcess();
 
             Console.Clear();
 
