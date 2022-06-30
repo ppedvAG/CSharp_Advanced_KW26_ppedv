@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\bin\Debug\net5.0\ImportDllInRuntime.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\refint\ImportDllInRuntime.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ImportDllInRuntime.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\ImportDllInRuntime\obj\Debug\net5.0\ref\ImportDllInRuntime.dll

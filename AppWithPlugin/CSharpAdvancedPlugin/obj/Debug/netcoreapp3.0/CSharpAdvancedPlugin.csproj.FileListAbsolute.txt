@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\bin\Debug\netcoreapp3.0\CSharpAdvancedPlugin.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\bin\Debug\netcoreapp3.0\CSharpAdvancedPlugin.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\bin\Debug\netcoreapp3.0\CSharpAdvancedPlugin.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\CSharpAdvancedPlugin\obj\Debug\netcoreapp3.0\CSharpAdvancedPlugin.pdb

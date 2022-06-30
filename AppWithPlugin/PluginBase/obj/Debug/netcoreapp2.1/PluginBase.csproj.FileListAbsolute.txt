@@ -1,0 +1,52 @@
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\bin\Debug\netcoreapp2.1\PluginBase.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PluginBase\obj\Debug\netcoreapp2.1\PluginBase.pdb

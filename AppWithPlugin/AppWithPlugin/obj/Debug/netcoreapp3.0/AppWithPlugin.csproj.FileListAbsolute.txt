@@ -1,0 +1,205 @@
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csprojAssemblyReference.cache
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\GitHub_Projects\NetCore Entwicklungen von Microsoft\samples\core\extensions\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csprojAssemblyReference.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\Advanced_CSharp_2020_11_30\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_KW48_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.exe
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\bin\Debug\netcoreapp3.0\PluginBase.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.csproj.CopyComplete
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\AppWithPlugin\obj\Debug\netcoreapp3.0\AppWithPlugin.genruntimeconfig.cache

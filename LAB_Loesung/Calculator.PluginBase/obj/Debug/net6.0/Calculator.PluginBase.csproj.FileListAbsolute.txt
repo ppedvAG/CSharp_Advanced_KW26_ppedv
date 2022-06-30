@@ -1,0 +1,12 @@
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.deps.json
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\bin\Debug\net6.0\Calculator.PluginBase.pdb
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.csproj.AssemblyReference.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.AssemblyInfoInputs.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.AssemblyInfo.cs
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.csproj.CoreCompileInputs.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\refint\Calculator.PluginBase.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\Calculator.PluginBase.pdb
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.PluginBase\obj\Debug\net6.0\ref\Calculator.PluginBase.dll

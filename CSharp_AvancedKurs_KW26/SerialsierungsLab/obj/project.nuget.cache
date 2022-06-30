@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g5XARzfJWowSDnCA//D4notY+MWhfx41ufPZi4B0AqeRAibxhipVL7Qk4HZ+faF8SBHORAYS5MUNMhaczqKelA==",
+  "dgSpecHash": "hkU0sUhdo0HY7ESPMkVqC0jsRQY2Z2WpjnIRWm0AGzw0vjoOiz3YUCIR2LYvkMgAZvRIMUarRxpgjv5thNicHw==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW26\\CSharp_AvancedKurs_KW26\\SerialsierungsLab\\SerialsierungsLab.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\bin\Debug\net5.0\XcopyablePlugin.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\bin\Debug\net5.0\XcopyablePlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\bin\Debug\net5.0\ref\XcopyablePlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\bin\Debug\net5.0\XcopyablePlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.csproj.CopyComplete
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\ref\XcopyablePlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\XcopyablePlugin\obj\Debug\net5.0\XcopyablePlugin.pdb

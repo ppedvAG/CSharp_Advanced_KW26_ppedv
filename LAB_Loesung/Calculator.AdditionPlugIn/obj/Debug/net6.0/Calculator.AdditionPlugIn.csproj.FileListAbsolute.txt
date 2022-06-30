@@ -1,0 +1,14 @@
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.deps.json
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.runtimeconfig.json
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\bin\Debug\net6.0\Calculator.AdditionPlugIn.pdb
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.csproj.AssemblyReference.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.AssemblyInfoInputs.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.AssemblyInfo.cs
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.csproj.CoreCompileInputs.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\refint\Calculator.AdditionPlugIn.dll
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.pdb
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\Calculator.AdditionPlugIn.genruntimeconfig.cache
+C:\Kursvolagen\PPKURS-CS-Fortgeschritten\M-008-Reflection\LAB_Loesung\Calculator.AdditionPlugIn\obj\Debug\net6.0\ref\Calculator.AdditionPlugIn.dll

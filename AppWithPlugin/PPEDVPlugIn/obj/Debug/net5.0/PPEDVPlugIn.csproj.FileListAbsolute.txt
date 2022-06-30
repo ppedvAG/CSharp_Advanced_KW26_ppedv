@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\bin\Debug\net5.0\PPEDVPlugIn.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\bin\Debug\net5.0\PPEDVPlugIn.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\bin\Debug\net5.0\ref\PPEDVPlugIn.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\bin\Debug\net5.0\PPEDVPlugIn.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\ref\PPEDVPlugIn.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\PPEDVPlugIn\obj\Debug\net5.0\PPEDVPlugIn.pdb

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5775030-b799-453d-9600-ba5dd7a213f4": {
+      "ProjectGuid": "b5775030-b799-453d-9600-ba5dd7a213f4",
+      "DisplayName": "AppWithPlugin",
+      "ColorIndex": 0
+    },
+    "fb17c127-f249-4d0d-a70f-c36692954b19": {
+      "ProjectGuid": "fb17c127-f249-4d0d-a70f-c36692954b19",
+      "DisplayName": "PluginBase",
+      "ColorIndex": 1
+    },
+    "150fcb23-b129-4f77-9d46-60422b279c53": {
+      "ProjectGuid": "150fcb23-b129-4f77-9d46-60422b279c53",
+      "DisplayName": "PPEDVPlugIn",
+      "ColorIndex": 2
+    },
+    "e7e27197-054d-487c-ab00-fa480b835cf6": {
+      "ProjectGuid": "e7e27197-054d-487c-ab00-fa480b835cf6",
+      "DisplayName": "CSharpAdvancedPlugin",
+      "ColorIndex": 3
+    },
+    "bdcb21f4-05fc-4047-9b35-58084fffe49c": {
+      "ProjectGuid": "bdcb21f4-05fc-4047-9b35-58084fffe49c",
+      "DisplayName": "FrenchPlugin",
+      "ColorIndex": 4
+    },
+    "667ae307-5502-4215-aac6-76dd86afcfa2": {
+      "ProjectGuid": "667ae307-5502-4215-aac6-76dd86afcfa2",
+      "DisplayName": "HelloPlugin",
+      "ColorIndex": 5
+    },
+    "3d8bdd28-348b-4ba8-beba-b4cad5d3b395": {
+      "ProjectGuid": "3d8bdd28-348b-4ba8-beba-b4cad5d3b395",
+      "DisplayName": "JsonPlugin",
+      "ColorIndex": 6
+    },
+    "7a0c7ae7-3bd8-4e85-addb-9653fae8a91b": {
+      "ProjectGuid": "7a0c7ae7-3bd8-4e85-addb-9653fae8a91b",
+      "DisplayName": "OldJsonPlugin",
+      "ColorIndex": 7
+    },
+    "b8698156-310c-471e-a957-58a118954bb5": {
+      "ProjectGuid": "b8698156-310c-471e-a957-58a118954bb5",
+      "DisplayName": "UVPlugin",
+      "ColorIndex": 8
+    },
+    "7b50bb55-c274-4625-94a1-71746e70c23c": {
+      "ProjectGuid": "7b50bb55-c274-4625-94a1-71746e70c23c",
+      "DisplayName": "XcopyablePlugin",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\bin\Debug\net5.0\FrenchPlugin.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\bin\Debug\net5.0\FrenchPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\bin\Debug\net5.0\ref\FrenchPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\bin\Debug\net5.0\FrenchPlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\ref\FrenchPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\FrenchPlugin\obj\Debug\net5.0\FrenchPlugin.pdb

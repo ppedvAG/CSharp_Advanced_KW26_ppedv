@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\bin\Debug\net5.0\HelloPlugin.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\bin\Debug\net5.0\HelloPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\bin\Debug\net5.0\ref\HelloPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\bin\Debug\net5.0\HelloPlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\ref\HelloPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\HelloPlugin\obj\Debug\net5.0\HelloPlugin.pdb

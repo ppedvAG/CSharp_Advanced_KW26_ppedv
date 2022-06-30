@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\bin\Debug\net5.0\LinqLambda.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\refint\LinqLambda.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\LinqLambda.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\LinqLambda\obj\Debug\net5.0\ref\LinqLambda.dll

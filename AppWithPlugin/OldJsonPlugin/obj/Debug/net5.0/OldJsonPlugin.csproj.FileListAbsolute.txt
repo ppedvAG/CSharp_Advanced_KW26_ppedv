@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\bin\Debug\net5.0\OldJsonPlugin.deps.json
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\bin\Debug\net5.0\OldJsonPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\bin\Debug\net5.0\ref\OldJsonPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\bin\Debug\net5.0\OldJsonPlugin.pdb
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\ref\OldJsonPlugin.dll
+C:\Aktueller Kurs\CSharpAdvanced_KW04_ppedv\AppWithPlugin\OldJsonPlugin\obj\Debug\net5.0\OldJsonPlugin.pdb
