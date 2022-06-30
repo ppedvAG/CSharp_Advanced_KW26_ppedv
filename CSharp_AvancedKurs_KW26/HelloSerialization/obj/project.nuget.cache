@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZ6MvsDEO5Dfrc5HsKc/3jP/dnT65130u5KS05TGoJCPEmHg1C57uKj/81QhUpf7ZH+0xCYnQEFIr+rW/qiagA==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_KW26\\CSharp_AvancedKurs_KW26\\HelloSerialization\\HelloSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

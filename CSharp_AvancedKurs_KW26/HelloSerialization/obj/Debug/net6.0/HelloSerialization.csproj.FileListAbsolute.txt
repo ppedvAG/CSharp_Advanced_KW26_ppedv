@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\HelloSerialization.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\HelloSerialization.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\HelloSerialization.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\HelloSerialization.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\HelloSerialization.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\refint\HelloSerialization.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\ref\HelloSerialization.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW26\CSharp_AvancedKurs_KW26\HelloSerialization\obj\Debug\net6.0\HelloSerialization.csproj.CopyComplete

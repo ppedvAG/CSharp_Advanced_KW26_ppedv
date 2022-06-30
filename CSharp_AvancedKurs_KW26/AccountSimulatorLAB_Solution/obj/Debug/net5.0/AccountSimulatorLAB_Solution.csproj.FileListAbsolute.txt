@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\bin\Debug\net5.0\AccountSimulatorLAB_Solution.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\refint\AccountSimulatorLAB_Solution.dll
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\AccountSimulatorLAB_Solution.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\AccountSimulatorLAB_Solution\obj\Debug\net5.0\ref\AccountSimulatorLAB_Solution.dll

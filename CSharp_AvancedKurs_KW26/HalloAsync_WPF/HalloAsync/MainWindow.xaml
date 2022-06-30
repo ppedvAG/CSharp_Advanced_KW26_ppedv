@@ -1,0 +1,19 @@
+﻿<Window x:Class="HalloAsync.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HalloAsync"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <StackPanel Margin="8">
+        <Button IsEnabled="False" Click="StartOhneThread">Start ohne Threading</Button>
+        <Button Click="StartTask">Start Task (Dispatcher)</Button>
+        <Button Click="StartTaskMitTS">Start Task (TaskScheduler)</Button>
+        <Button Click="StartAA">Start async/await</Button>
+        <Button Click="CountEmps">Count Employees from DB</Button>
+        <ProgressBar Name="pb1" Height="22"/>
+        <Button Click="Abort">Abbrechen</Button>
+        <Button Click="AlteMethode">Gute alte, aber langsame Funktion</Button>
+    </StackPanel>
+</Window>

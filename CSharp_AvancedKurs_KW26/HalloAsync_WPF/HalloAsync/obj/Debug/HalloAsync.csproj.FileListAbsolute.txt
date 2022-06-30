@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\bin\Debug\HalloAsync.exe.config
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\bin\Debug\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\bin\Debug\HalloAsync.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.csproj.SuggestedBindingRedirects.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\MainWindow.g.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\App.g.cs
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync_MarkupCompile.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync_MarkupCompile.lref
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\MainWindow.baml
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.g.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync_WPF\HalloAsync\obj\Debug\HalloAsync.pdb

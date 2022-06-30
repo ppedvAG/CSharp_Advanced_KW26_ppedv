@@ -8,14 +8,14 @@ Themen
 - [x] C# 7.0 -> C# 9 Sprach Features
 - [x] C# 10 und Ausblick auf C#11
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
-- [ ] Generics
-- [ ] Delegates, Action, Func, Callbacks, Event, EventHandler
+- [x] Generics
+- [x] Delegates, Action, Func, Callbacks, Event, EventHandler
 
 Mi:
-- [ ] Threads
-- [ ] TPL
-- [ ] TPL -> t1.ContinueWith(task => AllgemeinerFolgetask()); -> Was kann man mit Task- task noch anstellen oder Alternative
-- [ ] async / await
+- [x] Threads
+- [x] TPL
+- [x] TPL -> t1.ContinueWith(task => AllgemeinerFolgetask()); -> Was kann man mit Task- task noch anstellen oder Alternative
+- [x] async / await
 
 Do: 
 - [ ] Serialization

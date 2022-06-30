@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe.config
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\bin\Debug\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\bin\Debug\HalloAsync.pdb
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync_WinForms.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Form1.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync_WinForms.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync_WinForms.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Advanced_KW23_ppedv\CSharp_Advanced\HalloAsync\HalloAsync\obj\Debug\HalloAsync.pdb
